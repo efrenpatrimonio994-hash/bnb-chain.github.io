@@ -1,0 +1,17 @@
+---
+title: "Frequently Asked Questions"
+---
+
+<!-- SuperIntern keeps this page up to date automatically. To change a FAQ, edit it in the SuperIntern review queue — edits made directly to this file are replaced on the next update. -->
+
+# Frequently Asked Questions
+
+## General FAQs
+
+- [NodeReal Base RPC returns 404 Client Error](./nodereal-base-rpc-returns-404-client-error.md)
+
+## BSC
+
+- [BSC validator node fails to start with "Missing ancient data file" when using pruned PBSS snapshot](./bsc-validator-node-fails-to-start-with-missing-ancient-data-file-when-using-prun.md)
+- [Refreshing Token Metadata on BscScan After Proxy Upgrade](./refreshing-token-metadata-on-bscscan-after-proxy-upgrade.md)
+- [Prop AMM and Relayer Benefits for Trading](./prop-amm-and-relayer-benefits-for-trading.md)
